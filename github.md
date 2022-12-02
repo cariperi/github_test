@@ -4,3 +4,5 @@
 - Test line 3
 
 This is some **additional text**.
+
+This is even more *additional text*.
